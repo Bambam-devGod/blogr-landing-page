@@ -44,9 +44,9 @@ Simply open `index.html` in your browser — no build step needed.
 
 ## Deployment
 
-Deployed via GitHub Pages / Netlify / Vercel.
+Deployed via GitHub Pages.
 
 ## Author
 
-- Name: [Your Name]
-- Matric: [Your Matric Number]
+- Name: [Dania Bamidele Oluwapelumi]
+- Matric: [22/52HA188]
